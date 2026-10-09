@@ -8,3 +8,9 @@ Ta projekt uporabljam za vajo pri programiranju in za spoznavanje GitHuba. Tukaj
 
 - GitHub
 - Markdown
+
+## 📚 Kaj sem se naučil?
+
+- Kako ustvariti in urejati repozitorij.
+- Kako napisati README.md z naslovi in seznami.
+- Kako s commiti shranjevati spremembe in jih opisati.
