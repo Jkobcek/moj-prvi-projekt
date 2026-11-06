@@ -17,7 +17,7 @@ Ta projekt uporabljam za vajo pri programiranju in za spoznavanje GitHuba. Tukaj
 
 ## 😄 Zabavno dejstvo o meni
 
-Ko imam prost čas, ga znam zelo dobro izkoristiti za spanec. 😴
+Zelo rad grem ven, se družim s prijatelji in preživljam čas v dobri družbi. 🌃
 
 ## 🎯 Kaj sledi?
 
